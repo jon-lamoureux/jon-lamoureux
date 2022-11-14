@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a student at Stetson University studying cybersecurity. 
+
+LinkedIn: https://www.linkedin.com/in/jonathan-p-lamoureux/
+
 <!--
 **jon-lamoureux/jon-lamoureux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
